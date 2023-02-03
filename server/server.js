@@ -1,4 +1,4 @@
-import express from "Express";
+import express from "express";
 import cors from "cors";
 import * as dotenv from "dotenv";
 import { Configuration, OpenAIApi } from "openai";
