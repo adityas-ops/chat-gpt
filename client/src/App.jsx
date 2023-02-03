@@ -24,7 +24,7 @@ function App() {
 
   const fetchBotResponse = async () => {
     const { data } = await axios.post(
-      "http://localhost:4001",
+      "https://first-0tjf.onrender.com",
       { input },
       {
         headers: {
